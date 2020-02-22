@@ -1,0 +1,1 @@
+ALTER TABLE `accounts` ADD `reset` varchar(50) DEFAULT '';
